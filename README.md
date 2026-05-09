@@ -49,10 +49,14 @@ without downloading anything.
 
 ## How to Run
 1. Clone the repo
-bashgit clone https://github.com/NganTran-185/bee-colony-loss-analysis.git
+```bash
+git clone https://github.com/NganTran-185/bee-colony-loss-analysis.git
 cd bee-colony-loss-analysis
+```
 2. Install dependencies
-bashpip install pandas numpy matplotlib seaborn scipy scikit-learn plotly pymannkendall jupyter ipykernel
+```bash
+pip install pandas numpy matplotlib seaborn scipy scikit-learn plotly pymannkendall jupyter ipykernel
+```
 3. Download the dataset
 Place both files in the project folder.
 4. Open the notebook
